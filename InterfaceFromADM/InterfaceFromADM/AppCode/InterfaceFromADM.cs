@@ -21,6 +21,7 @@ namespace InterfaceFromADM.AppCode
 {
     public class InterfaceFromADM : BaseBatch
     {
+        //TestInput
         #region Batch Start
         public override void ExecuteBatch()
         {
