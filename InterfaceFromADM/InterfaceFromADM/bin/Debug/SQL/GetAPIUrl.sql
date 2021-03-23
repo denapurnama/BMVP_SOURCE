@@ -1,0 +1,1 @@
+﻿select top 1 SYSTEM_VALUE from TB_M_SYSTEM where FUNCTION_ID = '42001' and SYSTEM_CD = 'TP_IPPCSToICS_API_URL'

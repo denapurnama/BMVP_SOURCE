@@ -1,0 +1,309 @@
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\TransferPostingtoICS\bin\Debug\InterfaceFromADM.exe.config
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\InterfaceFromADM.exe.config
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\CreateLogDetail.sql
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\CreateLogFinish.sql
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\CreateLog.sql
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\Configurations\Database-DEV.config
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\Configurations\Database-PRD.config
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\Configurations\System.config
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\InterfaceFromADM.exe
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\InterfaceFromADM.pdb
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\Newtonsoft.Json.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\NPOI.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\NPOI.OOXML.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\NPOI.OpenXml4Net.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Broadcasting.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Configuration.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Credential.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Credential.Provider.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Credential.SingleSignOn.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Credential.TMMIN.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Database.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Database.Petapoco.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.DataExchange.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Document.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Document.NPOI.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Generalist.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Logging.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Lookup.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Messaging.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Reporting.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Reporting.Services.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Security.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.SSO.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Task.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Task.External.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Utilities.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Web.Platform.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Web.Service.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Web.UI.Layout.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Workflow.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\NPOI.xml
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\obj\Debug\InterfaceFromADM.exe
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\obj\Debug\InterfaceFromADM.pdb
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\Sysvalue.sql
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\Execute_SP.sql
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\Delete_Staging_Table.sql
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\obj\Debug\InterfaceFromADM.csprojFakesResolveAssemblyReference.cache
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\File_Archive_Failed.sql
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\File_Archive_Success.sql
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\InterfaceFromADM.exe.config
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\obj\Debug\InterfaceFromADM.exe
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\obj\Debug\InterfaceFromADM.pdb
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\CreateLogDetail.sql
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\CreateLogFinish.sql
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\CreateLog.sql
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\Delete_Staging_Table.sql
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\Execute_SP.sql
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\File_Archive_Failed.sql
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\File_Archive_Success.sql
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\Sysvalue.sql
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\Configurations\Database-DEV.config
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\Configurations\Database-PRD.config
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\Configurations\System.config
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\InterfaceFromADM.exe
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\InterfaceFromADM.pdb
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\Newtonsoft.Json.dll
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\NPOI.dll
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\NPOI.OOXML.dll
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\NPOI.OpenXml4Net.dll
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Broadcasting.dll
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Configuration.dll
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Credential.dll
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Credential.Provider.dll
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Credential.SingleSignOn.dll
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Credential.TMMIN.dll
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Database.dll
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Database.Petapoco.dll
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.DataExchange.dll
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Document.dll
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Document.NPOI.dll
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Generalist.dll
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Logging.dll
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Lookup.dll
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Messaging.dll
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Reporting.dll
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Reporting.Services.dll
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Security.dll
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.SSO.dll
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Task.dll
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Task.External.dll
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Utilities.dll
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Web.Platform.dll
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Web.Service.dll
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Web.UI.Layout.dll
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Workflow.dll
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\bin\Debug\NPOI.xml
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\obj\Debug\InterfaceFromADM.csprojFakesResolveAssemblyReference.cache
+D:\BMPV\Project\InterfaceFromADM (1)\InterfaceFromADM\InterfaceFromADM\obj\Debug\InterfaceFromADM.csprojResolveAssemblyReference.cache
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\InterfaceFromADM.exe.config
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\obj\Debug\InterfaceFromADM.exe
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\obj\Debug\InterfaceFromADM.pdb
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\CreateLogDetail.sql
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\CreateLogFinish.sql
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\CreateLog.sql
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\Delete_Staging_Table.sql
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\Execute_SP.sql
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\File_Archive_Failed.sql
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\File_Archive_Success.sql
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\Sysvalue.sql
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Configurations\Database-DEV.config
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Configurations\Database-PRD.config
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Configurations\System.config
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\InterfaceFromADM.exe
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\InterfaceFromADM.pdb
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Newtonsoft.Json.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\NPOI.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\NPOI.OOXML.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\NPOI.OpenXml4Net.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Broadcasting.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Configuration.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Credential.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Credential.Provider.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Credential.SingleSignOn.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Credential.TMMIN.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Database.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Database.Petapoco.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.DataExchange.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Document.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Document.NPOI.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Generalist.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Logging.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Lookup.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Messaging.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Reporting.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Reporting.Services.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Security.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.SSO.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Task.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Task.External.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Utilities.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Web.Platform.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Web.Service.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Web.UI.Layout.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Workflow.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\NPOI.xml
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\obj\Debug\InterfaceFromADM.csprojFakesResolveAssemblyReference.cache
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\CreateLogDetail.sql
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\CreateLogFinish.sql
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\CreateLog.sql
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\Delete_Staging_Table.sql
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\Execute_SP.sql
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\File_Archive_Failed.sql
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\File_Archive_Success.sql
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\Sysvalue.sql
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Configurations\Database-DEV.config
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Configurations\Database-PRD.config
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Configurations\System.config
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\InterfaceFromADM.exe.config
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\InterfaceFromADM.exe
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\InterfaceFromADM.pdb
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\DevExpress.Data.v12.2.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\DevExpress.Printing.v12.2.Core.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\DevExpress.Utils.v12.2.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\DevExpress.XtraEditors.v12.2.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Newtonsoft.Json.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\NPOI.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\NPOI.OOXML.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\NPOI.OpenXml4Net.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Broadcasting.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Configuration.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Credential.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Credential.Provider.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Credential.SingleSignOn.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Credential.TMMIN.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Database.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Database.Petapoco.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.DataExchange.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Document.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Document.NPOI.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Generalist.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Logging.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Lookup.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Messaging.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Reporting.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Reporting.Services.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Security.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.SSO.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Task.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Task.External.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Utilities.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Web.Platform.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Web.Service.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Web.UI.Layout.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Workflow.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\DevExpress.Data.v12.2.xml
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\DevExpress.Printing.v12.2.Core.xml
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\DevExpress.Utils.v12.2.xml
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\DevExpress.XtraEditors.v12.2.xml
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\NPOI.xml
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\de\DevExpress.Data.v12.2.resources.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\es\DevExpress.Data.v12.2.resources.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\ja\DevExpress.Data.v12.2.resources.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\ru\DevExpress.Data.v12.2.resources.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\de\DevExpress.Printing.v12.2.Core.resources.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\es\DevExpress.Printing.v12.2.Core.resources.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\ja\DevExpress.Printing.v12.2.Core.resources.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\ru\DevExpress.Printing.v12.2.Core.resources.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\de\DevExpress.Utils.v12.2.resources.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\es\DevExpress.Utils.v12.2.resources.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\ja\DevExpress.Utils.v12.2.resources.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\ru\DevExpress.Utils.v12.2.resources.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\de\DevExpress.XtraEditors.v12.2.resources.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\es\DevExpress.XtraEditors.v12.2.resources.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\ja\DevExpress.XtraEditors.v12.2.resources.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\ru\DevExpress.XtraEditors.v12.2.resources.dll
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\obj\Debug\InterfaceFromADM.csprojAssemblyReference.cache
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\obj\Debug\InterfaceFromADM.csproj.CoreCompileInputs.cache
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\obj\Debug\InterfaceFromADM.csproj.CopyComplete
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\obj\Debug\InterfaceFromADM.exe
+D:\PROJEK\BMVP\BMVP\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\obj\Debug\InterfaceFromADM.pdb
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\CreateLogDetail.sql
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\CreateLogFinish.sql
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\CreateLog.sql
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\Delete_Staging_Table.sql
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\Execute_SP.sql
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\File_Archive_Failed.sql
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\File_Archive_Success.sql
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\SQL\Sysvalue.sql
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Configurations\Database-DEV.config
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Configurations\Database-PRD.config
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Configurations\System.config
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\InterfaceFromADM.exe.config
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\InterfaceFromADM.exe
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\InterfaceFromADM.pdb
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\DevExpress.Data.v12.2.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\DevExpress.Printing.v12.2.Core.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\DevExpress.Utils.v12.2.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\DevExpress.XtraEditors.v12.2.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Newtonsoft.Json.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\NPOI.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\NPOI.OOXML.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\NPOI.OpenXml4Net.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Broadcasting.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Configuration.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Credential.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Credential.Provider.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Credential.SingleSignOn.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Credential.TMMIN.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Database.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Database.Petapoco.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.DataExchange.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Document.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Document.NPOI.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Generalist.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Logging.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Lookup.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Messaging.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Reporting.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Reporting.Services.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Security.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.SSO.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Task.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Task.External.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Utilities.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Web.Platform.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Web.Service.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Web.UI.Layout.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\Toyota.Common.Workflow.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\DevExpress.Data.v12.2.xml
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\DevExpress.Printing.v12.2.Core.xml
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\DevExpress.Utils.v12.2.xml
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\DevExpress.XtraEditors.v12.2.xml
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\NPOI.xml
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\de\DevExpress.Data.v12.2.resources.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\es\DevExpress.Data.v12.2.resources.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\ja\DevExpress.Data.v12.2.resources.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\ru\DevExpress.Data.v12.2.resources.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\de\DevExpress.Printing.v12.2.Core.resources.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\es\DevExpress.Printing.v12.2.Core.resources.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\ja\DevExpress.Printing.v12.2.Core.resources.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\ru\DevExpress.Printing.v12.2.Core.resources.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\de\DevExpress.Utils.v12.2.resources.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\es\DevExpress.Utils.v12.2.resources.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\ja\DevExpress.Utils.v12.2.resources.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\ru\DevExpress.Utils.v12.2.resources.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\de\DevExpress.XtraEditors.v12.2.resources.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\es\DevExpress.XtraEditors.v12.2.resources.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\ja\DevExpress.XtraEditors.v12.2.resources.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\bin\Debug\ru\DevExpress.XtraEditors.v12.2.resources.dll
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\obj\Debug\InterfaceFromADM.csprojAssemblyReference.cache
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\obj\Debug\InterfaceFromADM.csproj.CoreCompileInputs.cache
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\obj\Debug\InterfaceFromADM.csproj.CopyComplete
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\obj\Debug\InterfaceFromADM.exe
+D:\PROJEK\BMVP\SOURCE CODE\InterfaceFromADM\InterfaceFromADM\InterfaceFromADM\obj\Debug\InterfaceFromADM.pdb

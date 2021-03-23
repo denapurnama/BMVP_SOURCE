@@ -1,0 +1,1 @@
+﻿select SYSTEM_VALUE from TB_M_SYSTEM where SYSTEM_CD = 'GET_ADM_INTERFACE'

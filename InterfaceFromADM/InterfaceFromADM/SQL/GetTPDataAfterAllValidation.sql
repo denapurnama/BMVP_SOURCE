@@ -1,0 +1,1 @@
+﻿select  * from TB_T_TRANSFER_POSTING_TO_ICS

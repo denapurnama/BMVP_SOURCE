@@ -1,0 +1,3 @@
+D:\PROJEK\FUJITSU\IPPCS\TransferPostingtoICS\TransferPostingtoICS\bin\Debug\TransferPostingIPPCStoICS.exe.config
+D:\PROJEK\BMVP\IPPCS\TransferPostingtoICS\TransferPostingtoICS\bin\Debug\TransferPostingIPPCStoICS.exe.config
+D:\PROJEK\BMVP\IPPCS\InterfaceFromADM\TransferPostingtoICS\bin\Debug\TransferPostingIPPCStoICS.exe.config

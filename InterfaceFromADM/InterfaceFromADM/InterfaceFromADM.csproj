@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AB73BB44-F54C-41D7-9213-BC03BFF03993}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>InterfaceFromADM</RootNamespace>
+    <AssemblyName>InterfaceFromADM</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CommonWebLibrary, Version=1.0.7553.32093, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\CommonWebLibrary\bin\Debug\CommonWebLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Data.v12.2, Version=12.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v12.2.Core, Version=12.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v12.2, Version=12.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v12.2, Version=12.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.QualityTools.Testing.Fakes, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>TDK\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI">
+      <HintPath>TDK\NPOI.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI.OOXML">
+      <HintPath>TDK\NPOI.OOXML.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI.OpenXml4Net">
+      <HintPath>TDK\NPOI.OpenXml4Net.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI.OpenXmlFormats">
+      <HintPath>TDK\NPOI.OpenXmlFormats.dll</HintPath>
+    </Reference>
+    <Reference Include="SPOTLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SPOTLibrary\bin\Debug\SPOTLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.IO.Compression.FileSystem" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Toyota.Common.Broadcasting">
+      <HintPath>TDK\Toyota.Common.Broadcasting.dll</HintPath>
+    </Reference>
+    <Reference Include="Toyota.Common.Configuration">
+      <HintPath>TDK\Toyota.Common.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Toyota.Common.Credential">
+      <HintPath>TDK\Toyota.Common.Credential.dll</HintPath>
+    </Reference>
+    <Reference Include="Toyota.Common.Credential.Provider">
+      <HintPath>TDK\Toyota.Common.Credential.Provider.dll</HintPath>
+    </Reference>
+    <Reference Include="Toyota.Common.Credential.SingleSignOn">
+      <HintPath>TDK\Toyota.Common.Credential.SingleSignOn.dll</HintPath>
+    </Reference>
+    <Reference Include="Toyota.Common.Credential.TMMIN">
+      <HintPath>TDK\Toyota.Common.Credential.TMMIN.dll</HintPath>
+    </Reference>
+    <Reference Include="Toyota.Common.Database">
+      <HintPath>TDK\Toyota.Common.Database.dll</HintPath>
+    </Reference>
+    <Reference Include="Toyota.Common.Database.Petapoco">
+      <HintPath>TDK\Toyota.Common.Database.Petapoco.dll</HintPath>
+    </Reference>
+    <Reference Include="Toyota.Common.DataExchange">
+      <HintPath>TDK\Toyota.Common.DataExchange.dll</HintPath>
+    </Reference>
+    <Reference Include="Toyota.Common.Document">
+      <HintPath>TDK\Toyota.Common.Document.dll</HintPath>
+    </Reference>
+    <Reference Include="Toyota.Common.Document.NPOI">
+      <HintPath>TDK\Toyota.Common.Document.NPOI.dll</HintPath>
+    </Reference>
+    <Reference Include="Toyota.Common.Generalist">
+      <HintPath>TDK\Toyota.Common.Generalist.dll</HintPath>
+    </Reference>
+    <Reference Include="Toyota.Common.Logging">
+      <HintPath>TDK\Toyota.Common.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Toyota.Common.Lookup">
+      <HintPath>TDK\Toyota.Common.Lookup.dll</HintPath>
+    </Reference>
+    <Reference Include="Toyota.Common.Messaging">
+      <HintPath>TDK\Toyota.Common.Messaging.dll</HintPath>
+    </Reference>
+    <Reference Include="Toyota.Common.Reporting">
+      <HintPath>TDK\Toyota.Common.Reporting.dll</HintPath>
+    </Reference>
+    <Reference Include="Toyota.Common.Reporting.Services">
+      <HintPath>TDK\Toyota.Common.Reporting.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="Toyota.Common.Security">
+      <HintPath>TDK\Toyota.Common.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="Toyota.Common.SSO">
+      <HintPath>TDK\Toyota.Common.SSO.dll</HintPath>
+    </Reference>
+    <Reference Include="Toyota.Common.Task">
+      <HintPath>TDK\Toyota.Common.Task.dll</HintPath>
+    </Reference>
+    <Reference Include="Toyota.Common.Task.External">
+      <HintPath>TDK\Toyota.Common.Task.External.dll</HintPath>
+    </Reference>
+    <Reference Include="Toyota.Common.Utilities">
+      <HintPath>TDK\Toyota.Common.Utilities.dll</HintPath>
+    </Reference>
+    <Reference Include="Toyota.Common.Web.Platform">
+      <HintPath>TDK\Toyota.Common.Web.Platform.dll</HintPath>
+    </Reference>
+    <Reference Include="Toyota.Common.Web.Service">
+      <HintPath>TDK\Toyota.Common.Web.Service.dll</HintPath>
+    </Reference>
+    <Reference Include="Toyota.Common.Web.UI.Layout">
+      <HintPath>TDK\Toyota.Common.Web.UI.Layout.dll</HintPath>
+    </Reference>
+    <Reference Include="Toyota.Common.Workflow">
+      <HintPath>TDK\Toyota.Common.Workflow.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AppCode\InterfaceFromADM.cs" />
+    <Compile Include="Helper\Base\BaseBatch.cs" />
+    <Compile Include="Helper\Base\BaseModel.cs" />
+    <Compile Include="Helper\Base\BaseRepository.cs" />
+    <Compile Include="Helper\DBConfig\AppStage.cs" />
+    <Compile Include="Helper\DBConfig\CommonDBHelper.cs" />
+    <Compile Include="Helper\DBConfig\ConfigLocationHelper.cs" />
+    <Compile Include="Helper\DBConfig\DBContextHelper.cs" />
+    <Compile Include="Helper\FTP\DirectoryHelper.cs" />
+    <Compile Include="Helper\FTP\ExportFile.cs" />
+    <Compile Include="Helper\FTP\FailedFTP.cs" />
+    <Compile Include="Helper\FTP\ImportFile.cs" />
+    <Compile Include="Helper\FTP\SuccessFTP.cs" />
+    <Compile Include="Helper\Report\NPOIHelper.cs" />
+    <Compile Include="Helper\Util\MimeUtil.cs" />
+    <Compile Include="Helper\Util\WebAPIUtil.cs" />
+    <Compile Include="Models\Common.cs" />
+    <Compile Include="Models\InterfaceADMObj.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Configurations\Database-QA.config" />
+    <None Include="Configurations\Database-DEV.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Configurations\Database-PRD.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Configurations\Locale-US.config" />
+    <None Include="Configurations\System.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <Fakes Include="Fakes\CommonWebLibrary.fakes" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Template\" />
+    <Folder Include="Temp\TP\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SQL\CreateLogDetail.sql">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SQL\CreateLogFinish.sql">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SQL\CreateLog.sql">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SQL\Delete_Staging_Table.sql">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SQL\Execute_SP.sql">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SQL\File_Archive_Failed.sql">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SQL\File_Archive_Success.sql">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SQL\Sysvalue.sql">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
