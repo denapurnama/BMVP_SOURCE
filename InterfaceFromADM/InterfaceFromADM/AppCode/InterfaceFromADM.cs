@@ -85,10 +85,6 @@ namespace InterfaceFromADM.AppCode
                 string fileSys = "ADM_Interface";
 
                 String[] listfile = Directory.GetFiles(val);
-                if (!listfile.Any())
-                {
-                    return;
-                }
                 fileName = listfile[0].Substring(8, 13);
 
                 if (fileName != fileSys)
