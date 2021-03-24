@@ -23,14 +23,41 @@ namespace InterfaceFromADM.AppCode
     {
         //TestInput
         #region Batch Start
+
+        //Cek File In Temp
+        #region Cek Son
+        public void cekFile()
+        {
+            IDBContext db = CommonDBHelper.dbManager.GetContext();
+
+            //string val1 = sysValue();
+            //String[] listfile1 = Directory.GetFiles(val1);
+            //Console.WriteLine("Enter username:");
+            //if (!listfile1.Any())
+            //{
+            //    return;
+            //}
+        }
+        #endregion
+
         public override void ExecuteBatch()
         {
+            //cekFile();
+
+            string val1 = sysValue();
+            String[] listfile1 = Directory.GetFiles(val1);
+            if (!listfile1.Any())
+            {
+                return;
+            }
+
             string loc = "Interface File From ADM Batch";
             string module = "BMPV";
             string function = "IFilePriceFromADM";
 
             Common repoResult = null;
             Common getProc = new Common();
+
             getProc.MSG_TXT = "Start Process";
             getProc.LOCATION = loc;
             getProc.PID = 0;
@@ -48,6 +75,15 @@ namespace InterfaceFromADM.AppCode
             try
             {
                 IDBContext db = dbManager.GetContext();
+
+                //Cek Any File
+                //string val1 = sysValue();
+                //String[] listfile1 = Directory.GetFiles(val1);
+                //Console.WriteLine("Enter username:");
+                //if (!listfile1.Any())
+                //{
+                //    return;
+                //}
 
                 #region 1. Get File From Receive Folder
                 Console.WriteLine("1. Get File From Receive Folder");
@@ -69,6 +105,10 @@ namespace InterfaceFromADM.AppCode
                 string fileSys = "ADM_Interface";
 
                 String[] listfile = Directory.GetFiles(val);
+                if (!listfile.Any())
+                {
+                    return;
+                }
                 fileName = listfile[0].Substring(8, 13);
 
                 if (fileName != fileSys)
