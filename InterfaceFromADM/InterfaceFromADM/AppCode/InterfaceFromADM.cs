@@ -81,8 +81,9 @@ namespace InterfaceFromADM.AppCode
 
                 int totalSuccess = 0;
                 string val = sysValue();
+                string fileSys = GetFileName();
                 string fileName;
-                string fileSys = "ADM_Interface";
+                //string fileSys = "ADM_Interface";
 
                 String[] listfile = Directory.GetFiles(val);
                 fileName = listfile[0].Substring(8, 13);
@@ -306,6 +307,23 @@ namespace InterfaceFromADM.AppCode
             };
 
             result = db.SingleOrDefault<string>("Sysvalue", args);
+            return result;
+        }
+        #endregion
+
+
+        #region GetFileName
+        public string GetFileName()
+        {
+            string result;
+            IDBContext db = dbManager.GetContext();
+
+            dynamic args = new
+            {
+
+            };
+
+            result = db.SingleOrDefault<string>("Get_Filename", args);
             return result;
         }
         #endregion
