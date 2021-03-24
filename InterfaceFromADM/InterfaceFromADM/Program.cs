@@ -28,6 +28,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using System.Threading;
+
 namespace InterfaceFromADM
 {
     class Program
@@ -38,19 +39,16 @@ namespace InterfaceFromADM
             try
             {
                 Console.WriteLine("Interface File From ADM to IPPCS is started");
-                //string functionId = args[0];//"TransferPostingtoICS";
                 string functionId = "InterfaceFromADM";
-                Assembly assembly = typeof(Program).Assembly; // in the same assembly!
 
+                // Start Calling Batch Proces
+                Assembly assembly = typeof(Program).Assembly; // in the same assembly!
                 Type type = assembly.GetType("InterfaceFromADM.AppCode." + functionId);
                 BaseBatch batch = (BaseBatch)Activator.CreateInstance(type);
                 batch.ExecuteBatch();
-                Console.WriteLine("Interface File From ADM to IPPCS is ended");
-                //TransferPostingIPPCStoICS.AppCode.TPIPPCStoICS baru = new AppCode.TPIPPCStoICS();
-                //baru.ExecuteBatch();
+                // End Calling Batch Process
 
-                //TPIPPCStoICS1 TP = new TPIPPCStoICS1();
-                //TP.ExecuteBatchTP();
+                Console.WriteLine("Interface File From ADM to IPPCS is ended");
                 Thread.Sleep(1000);
             }
             catch (Exception AE)

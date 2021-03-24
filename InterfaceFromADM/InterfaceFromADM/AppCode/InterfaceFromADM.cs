@@ -21,32 +21,22 @@ namespace InterfaceFromADM.AppCode
 {
     public class InterfaceFromADM : BaseBatch
     {
-        //TestInput
         #region Batch Start
-
-        //Cek File In Temp
-        #region Cek Son
-        public void cekFile()
-        {
-            IDBContext db = CommonDBHelper.dbManager.GetContext();
-
-            //string val1 = sysValue();
-            //String[] listfile1 = Directory.GetFiles(val1);
-            //Console.WriteLine("Enter username:");
-            //if (!listfile1.Any())
-            //{
-            //    return;
-            //}
-        }
-        #endregion
-
         public override void ExecuteBatch()
         {
-            //cekFile();
-
-            string val1 = sysValue();
-            String[] listfile1 = Directory.GetFiles(val1);
-            if (!listfile1.Any())
+            //Cek File In Temp
+            CommonDBHelper Repo2 = CommonDBHelper.Instance;
+            try
+            {
+                IDBContext db = dbManager.GetContext();
+                string val1 = sysValue();
+                String[] listfile1 = Directory.GetFiles(val1);
+                if (!listfile1.Any())
+                {
+                    return;
+                }
+            }
+            catch (Exception ex) 
             {
                 return;
             }
@@ -74,7 +64,7 @@ namespace InterfaceFromADM.AppCode
             Console.WriteLine("Function is started");
             try
             {
-                IDBContext db = dbManager.GetContext();
+                //IDBContext db = dbManager.GetContext();
 
                 //Cek Any File
                 //string val1 = sysValue();
