@@ -224,6 +224,9 @@
     <Content Include="SQL\File_Archive_Success.sql">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="SQL\Get_Filename_Data.sql">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="SQL\Sysvalue.sql">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

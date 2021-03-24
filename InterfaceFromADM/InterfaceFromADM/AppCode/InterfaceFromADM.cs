@@ -323,7 +323,7 @@ namespace InterfaceFromADM.AppCode
 
             };
 
-            result = db.SingleOrDefault<string>("Get_Filename", args);
+            result = db.SingleOrDefault<string>("Get_Filename_Data", args);
             return result;
         }
         #endregion
