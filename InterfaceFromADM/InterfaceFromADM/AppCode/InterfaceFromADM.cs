@@ -64,16 +64,6 @@ namespace InterfaceFromADM.AppCode
             Console.WriteLine("Function is started");
             try
             {
-                //IDBContext db = dbManager.GetContext();
-
-                //Cek Any File
-                //string val1 = sysValue();
-                //String[] listfile1 = Directory.GetFiles(val1);
-                //Console.WriteLine("Enter username:");
-                //if (!listfile1.Any())
-                //{
-                //    return;
-                //}
 
                 #region 1. Get File From Receive Folder
                 Console.WriteLine("1. Get File From Receive Folder");
