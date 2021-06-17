@@ -80,13 +80,17 @@ namespace InterfaceFromADM.AppCode
                 PID = CommonDBHelper.Instance.CreateLogDetail(getProc);
 
                 int totalSuccess = 0;
+                string fileName, fileName1;
+
                 string val = sysValue();
                 string fileSys = GetFileName();
-                string fileName;
-                //string fileSys = "ADM_Interface";
+
+                int lenghtSubstring1 = GetLenghtSystemValue();
+                int lenghtSubstring2 = GetLenghtSystemValue2();
 
                 String[] listfile = Directory.GetFiles(val);
-                fileName = listfile[0].Substring(8, 13);
+                fileName1 = listfile[0].Substring(lenghtSubstring1, lenghtSubstring2);
+                fileName = fileName1.Replace("\\","");
 
                 if (fileName != fileSys)
                 {
@@ -157,18 +161,20 @@ namespace InterfaceFromADM.AppCode
                         {
                             try
                             {
+
                                 #region Read file's content and add into data table
                                 using (StreamReader reader = new StreamReader(filename))
                                 {
                                     string RowData;
                                     string[] data;
 
+                                    //skip line 1
+                                    reader.ReadLine().Skip(1);
 
                                     int SEQ = 1;
                                     while ((RowData = reader.ReadLine()) != null)
                                     {
                                         DataRow row = table.NewRow();
-
                                         data = RowData.Split(new string[] { "\t" }, StringSplitOptions.None);
 
 
@@ -324,6 +330,38 @@ namespace InterfaceFromADM.AppCode
             };
 
             result = db.SingleOrDefault<string>("Get_Filename_Data", args);
+            return result;
+        }
+        #endregion
+
+        #region GetLenghtSystemValue
+        public int GetLenghtSystemValue()
+        {
+            int result;
+            IDBContext db = dbManager.GetContext();
+
+            dynamic args = new
+            {
+
+            };
+
+            result = db.SingleOrDefault<int>("GetLenghtSystemValue", args);
+            return result;
+        }
+        #endregion
+
+        #region GetLenghtSystemValue2
+        public int GetLenghtSystemValue2()
+        {
+            int result;
+            IDBContext db = dbManager.GetContext();
+
+            dynamic args = new
+            {
+
+            };
+
+            result = db.SingleOrDefault<int>("GetLenghtSystemValue2", args);
             return result;
         }
         #endregion
@@ -489,7 +527,7 @@ namespace InterfaceFromADM.AppCode
 
             try
             {
-                String[] listFile = Directory.GetFiles(fileFromTemp, "*.txt");
+                String[] listFile = Directory.GetFiles(fileFromTemp);
 
                 // Copy files.
                 foreach (string f in listFile)
